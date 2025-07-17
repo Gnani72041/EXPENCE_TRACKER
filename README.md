@@ -23,5 +23,5 @@ You can add transactions, view your balance, and delete entries when needed.
 - HTML, CSS
 - Font Awesome (for icons)
 
-![Homepage](expencetracker/screenshots/home.png)
+
 
