@@ -1,0 +1,20 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
+# Django migrations
+*/migrations/__pycache__/
+*.pyc
+*.pyo
+
+# VSCode or editor configs (optional)
+.vscode/
+*.swp
+
+# Environment files
+.env
+.env.*
+venv/
+env/
