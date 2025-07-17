@@ -23,7 +23,5 @@ You can add transactions, view your balance, and delete entries when needed.
 - HTML, CSS
 - Font Awesome (for icons)
 
-- ## 📸 Screenshot
 
-![Home Page](public/static/Screenshots/homepage.png)
 
